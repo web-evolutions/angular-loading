@@ -1,0 +1,22 @@
+{
+	"name": "angular-loading",
+	"version": "0.0.0",
+	"main":"",
+	"ignore":[
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "Gruntfile.js",
+        "gruntfile.js",
+        "package.json"
+	],
+	"dependencies": {
+		"angular": "~1.2.26",
+    	"angular-animate": "~1.2.21",
+		"angular-motion": "~0.3.4"
+	},
+	"devDependencies": {	
+	}
+}
